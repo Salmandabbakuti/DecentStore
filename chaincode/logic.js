@@ -13,12 +13,12 @@ class fabricDrive extends Contract {
      
      let userAsBytes = await ctx.stub.getState(userId); 
        if (!userAsBytes || userAsBytes.toString().length <= 0) {
-         return('Error: Incorrect UserId..!');
+         return({Error: "Error: Incorrect UserId..!"});
          }
      else {
      let user= JSON.parse(userAsBytes);
      if (sha512(key) != user.AccessKey) {
-          return('Error: Incorrect AccessKey..!');
+          return({Error: "Error: Incorrect AccessKey..!"});
            }
        else{
        let files=JSON.parse(userAsBytes.toString());
