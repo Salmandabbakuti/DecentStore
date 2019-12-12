@@ -1,3 +1,10 @@
+/*
+ * SPDX-License-Identifier: Apache 2.0
+ * Licensed to @Author: Salman Dabbakuti(https://github.com/Salmandabbakuti)
+ * Permissioned Use Only
+ *See the License for the specific language governing permissions and limitations under the License.
+ */
+
 'use strict';
 const { Contract} = require('fabric-contract-api');
 const sha512 = require("js-sha512");
