@@ -3,7 +3,12 @@ const { Contract} = require('fabric-contract-api');
 const sha512 = require("js-sha512");
 
 class fabricDrive extends Contract {
-
+   
+   async init(ctx) {
+  
+        console.log("<==Instantiated fabric-drive Chaincode==>");
+ 
+    }
    async getFiles(ctx,userId, key) {
      
      let userAsBytes = await ctx.stub.getState(userId); 
