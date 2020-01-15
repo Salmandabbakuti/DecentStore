@@ -8,7 +8,7 @@ All uploaded file hashes will be mapped to particular user on blockchain (hyperl
 #### Demonstration
 
 ##### User Registration:
-![User Registration Demo](https://j.gifs.com/WLv6pE.gif)
+![User Registration Demo](https://j.gifs.com/jZMn3v.gif)
 
 ##### File Upload:
 ![File Uload Demo](https://j.gifs.com/yo5m3n.gif)
