@@ -2,10 +2,18 @@
 Decentralized file storage with hyperledger fabric using Ipfs
 
 #### Background
+Ffiles will be stored in decentralized storage platform IPFS via API.
 
-files will be stored in decentralized storage platform IPFS via API.
+All uploaded file hashes will be mapped to particular user on blockchain (hyperledger fabric)
+#### Demonstration
 
-all uploaded file hashes will be mapped to particular user on blockchain (hyperledger fabric)
+##### User Registration:
+![User Registration Demo](https://j.gifs.com/WLv6pE.gif)
+
+##### File Upload:
+![File Uload Demo](https://j.gifs.com/yo5m3n.gif)
+
+![File Uload Demo](https://j.gifs.com/OMkZwr.gif)
 
 
 
