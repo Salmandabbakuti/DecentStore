@@ -14,7 +14,7 @@ All uploaded file hashes will be mapped to particular user on blockchain (hyperl
 ![File Upload Demo](https://j.gifs.com/yo5m3n.gif)
 
 ##### File Store:
-![File Upload Demo](https://j.gifs.com/OMkZwr.gif)
+![File Upload Demo](https://j.gifs.com/71zA41.gif)
 
 
 
