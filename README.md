@@ -18,7 +18,8 @@ All uploaded file hashes will be mapped to particular user on blockchain (hyperl
 
 
 
-**Application Demo Available at https://bcdevs.github.io/DecentStore/ **
+Application Demo Available at https://decentstore.netlify.com/
+>Note: Demonstration Only. Not For Production Use. Reserved.
 
 ##### Author   
 
